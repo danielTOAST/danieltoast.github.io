@@ -1,0 +1,13 @@
+Package: com.danieltoast.roundchev
+Name: RoundChev
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Round Chevrons instead of the Boring Arrow Chevron
+Author: DanielToast <danbloks@gmail.com>
+Maintainer: DanielToast <danbloks@gmail.com>
+Section: Themes
+Filename: com.danieltoast.roundchev_1.0_iphoneos-arm
+Size: 4510
+MD5sum: f1c06a37b730ff9f0e5a357873d28142
+SHA1: 306b41395894443c15f8ae428889d08e1da24bdb
+SHA256: bd6bce79bfa8bbed25c9f308d306a80903f1049bd914d0b532cd4c2faf32cb7a
